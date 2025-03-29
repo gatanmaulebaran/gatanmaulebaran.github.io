@@ -41,7 +41,7 @@
     <div class="container">
        <h1>Gua gathan mau ngucapin!</h1>
         <h1>Selamat Hari Raya Idul Fitri!</h1>
-        <p>Semoga hari yang suci ini membawa berkah dan Tahun depan gamokel lagi Aamin.</p>
+        <p>Semoga hari yang suci ini membawa berkah dan buat yang baca semoga Tahun depan gamokel lagi Aamin.</p>
         <p>Minal Aidzin Yak Mohon maaf lahir dan batin.</p>
     </div>
     <div class="footer">
